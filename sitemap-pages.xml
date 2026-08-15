@@ -106,6 +106,21 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sf-t3-1779642675702-089.maphoshirts.com/posts/gemini-coverage-20260815-0025.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sf-t3-1779642675702-089.maphoshirts.com/posts/gemini-coverage-20260815-0026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sf-t3-1779642675702-089.maphoshirts.com/posts/gemini-coverage-20260815-0027.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sf-t3-1779642675702-089.maphoshirts.com/posts/interview-002-ygbo0c.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -117,6 +132,11 @@
   </url>
   <url>
     <loc>https://sf-t3-1779642675702-089.maphoshirts.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sf-t3-1779642675702-089.maphoshirts.com/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
